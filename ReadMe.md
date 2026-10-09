@@ -6,4 +6,5 @@ Repository for hosting Dear Data 100 Assignment -- 2026. ReadMe will be worked o
 
 # Ideas of what to collect data on.
 - iRacing incidents (involving me or not?) in the first lap of M2/MX5 cup?
+- Maybe first turn in iRacing instead.
 - How many times a certain music artist shows up in a spotify playlist (including smart shuffle?)

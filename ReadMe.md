@@ -4,6 +4,9 @@ https://docs.google.com/spreadsheets/d/1ZPwIJq_oaZzkeul6WBwX9RGiDKf64NleGvafIa_c
 # Introduction
 Repository for hosting Dear Data 100 Assignment -- 2026. ReadMe will be worked on some point in the future.
 
+# Key Points (for self)
+- Chosen Data to focus: Number of DNFs and overall change in position in races.
+
 # Ideas of what to collect data on.
 - iRacing incidents (involving me or not?) in the first lap of M2/MX5 cup?
 - Maybe first turn in iRacing instead.

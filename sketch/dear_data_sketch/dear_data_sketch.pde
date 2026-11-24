@@ -1,8 +1,9 @@
 Table table;
 // boolean emptyRace;
 
+// checks if the row is empty based on empty string in the columns "race final position" or "no of dnfs"
 boolean isRaceEmpty(TableRow row){
-  if ((row.getString("Race Final Position") == "") || (row.getString("No. of DNFs") == "")){
+  if ((row.getString("Race Final Position").isEmpty()) || (row.getString("No. of DNFs").isEmpty())){
     return true;
   }
   return false;
@@ -23,10 +24,7 @@ void setup() {
     if (isRaceEmpty(row)){
       continue;
     }
-    else{
-      println("a" + row.getString("Race Final Position"));
     println(row.getString("Race No."));
-    }
   }
   }
 

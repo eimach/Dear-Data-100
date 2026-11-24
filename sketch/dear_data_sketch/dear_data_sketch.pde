@@ -1,5 +1,4 @@
 Table table;
-// boolean emptyRace;
 
 // checks if the row is empty based on empty string in the columns "race final position" or "no of dnfs"
 boolean isRaceEmpty(TableRow row){
@@ -26,7 +25,7 @@ void setup() {
     }
     println(row.getString("Race No."));
   }
-  }
+}
 
 
 void draw() {

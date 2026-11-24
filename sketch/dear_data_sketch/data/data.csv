@@ -1,101 +1,101 @@
-Race No.,Game,Date,Race Series,Track,No. of DNFs,Lap 1 Start Position,Race Final Position,Overall Position Change,Total Incident Points (may be removed)
-1,iRacing,23/10/26,BMW M2 Cup,Lime Rock Park,3,9,7,2,6x
-2,iRacing,23/10/26,BMW M2 Cup,Lime Rock Park,3,8,5,3,4x
-3,iRacing,24/10/26,BMW M2 Cup,Lime Rock Park,2,6,5,1,4x
-4,iRacing,24/10/26,BMW M2 Cup,Lime Rock Park,4,9,4,5,8x
-5,iRacing,24/10/26,BMW M2 Cup,Lime Rock Park,4,6,5,1,6x
-6,iRacing,25/10/26,BMW M2 Cup,Lime Rock Park,1,9,8,1,2x
-7,iRacing,25/10/26,BMW M2 Cup,Lime Rock Park,4,6,4,2,9x
-8,iRacing,30/10/26,BMW M2 Cup,Okayama Internation Short,0,10,9,1,7x
-9,iRacing,30/10/26,BMW M2 Cup,Okayama Internation Short,4,12,7,5,7x
-10,iRacing,30/10/26,BMW M2 Cup,Okayama Internation Short,3,10,5,5,2x
-11,iRacing,31/10/26,BMW M2 Cup,Okayama Internation Short,2,5,7,-2,6x
-12,iRacing,31/10/26,BMW M2 Cup,Okayama Internation Short,4,7,6,1,4x
-13,iRacing,31/10/26,BMW M2 Cup,Okayama Internation Short,2,11,9,2,8x
-14,iRacing,01/11/26,BMW M2 Cup,Okayama Internation Short,3,10,5,5,3x
-15,iRacing,01/11/26,BMW M2 Cup,Okayama Internation Short,2,11,10,1,7x
-16,iRacing,01/11/26,BMW M2 Cup,Okayama Internation Short,1,6,6,0,5x
-17,iRacing,01/11/26,BMW M2 Cup,Okayama Internation Short,3,10,7,3,9x
-18,iRacing,01/11/26,BMW M2 Cup,Okayama Internation Short,4,9,5,4,2x
-19,Le Mans Ultimate,02/11/26,Mclaren LMGT3/Logitech Mclaren G Challenge,Monza,1,19,18,1,N/A
-20,Le Mans Ultimate,02/11/26,Logitech Mclaren G Challenge,Monza,5,20,17 (DQ),3,N/A
-21,Le Mans Ultimate,03/11/26,LMGT3 Fixed,Monza,8,14,17 (DNF/Crash),-3,N/A
-22,Le Mans Ultimate,03/11/26,LMGT3 Fixed,Monza,4,17,16,1,N/A
-23,Le Mans Ultimate,03/11/26,LMGT3 Fixed,Monza,5,16,14,2,N/A
-24,Le Mans Ultimate,03/11/26,LMGT3 Fixed,Monza,8,13,5,8,N/A
-25,Le Mans Ultimate,03/11/26,LMGT3 Fixed,Monza,3,15,9,6,N/A
-26,Le Mans Ultimate,04/11/26,LMGT3 Fixed,Monza,5,15,6,9,N/A
-27,Le Mans Ultimate,04/11/26,LMGT3 Fixed,Monza,8,17,6,11,N/A
-28,Le Mans Ultimate,04/11/26,LMGT3 Fixed,Monza,5,16,19 (DNF/Crash),-3,N/A
-29,Le Mans Ultimate,04/11/26,LMGT3 Fixed,Monza,4,15,11,4,N/A
-30,Le Mans Ultimate,05/11/26,LMGT3 Fixed,Monza,6,14,6,8,N/A
-31,Le Mans Ultimate,05/11/26,LMGT3 Fixed,Monza,3,12,9,3,N/A
-32,Le Mans Ultimate,05/11/26,LMGT3 Fixed,Monza,8,15,5,10,N/A
-33,Le Mans Ultimate,06/11/26,LMGT3 Fixed,Monza,5,19,16,3,N/A
-34,Le Mans Ultimate,06/11/26,LMGT3 Fixed,Monza,4,16,11,5,N/A
-35,Le Mans Ultimate,06/11/26,LMGT3 Fixed,Monza,3,15,10,5,N/A
-36,Le Mans Ultimate,06/11/26,LMGT3 Fixed,Monza,2,17,9,8,N/A
-37,Le Mans Ultimate,06/11/26,LMGT3 Fixed,Monza,6,13,4,9,N/A
-38,Le Mans Ultimate,11/11/26,LMGT3 Fixed,Spa Francorchamps,3,16,14,2,N/A
-39,Le Mans Ultimate,11/11/26,LMGT3 Fixed,Spa Francorchamps,5,19,15,4,N/A
-40,Le Mans Ultimate,11/11/26,LMGT3 Fixed,Spa Francorchamps,6,17,13,4,N/A
-41,Le Mans Ultimate,11/11/26,LMGT3 Fixed,Spa Francorchamps,5,15,12,3,N/A
-42,Le Mans Ultimate,11/11/26,LMGT3 Fixed,Spa Francorchamps,5,13,14,-1,N/A
-43,Le Mans Ultimate,12/11/26,LMGT3 Fixed,Spa Francorchamps,3,15,10,5,N/A
-44,Le Mans Ultimate,12/11/26,LMGT3 Fixed,Spa Francorchamps,8,12,9,3,N/A
-45,Le Mans Ultimate,12/11/26,LMGT3 Fixed,Spa Francorchamps,5,17,13,4,N/A
-46,Le Mans Ultimate,12/11/26,LMGT3 Fixed,Spa Francorchamps,2,16,14,2,N/A
-47,Le Mans Ultimate,13/11/26,LMGT3 Fixed,Spa Francorchamps,7,19,8,11,N/A
-48,Le Mans Ultimate,13/11/26,LMGT3 Fixed,Spa Francorchamps,6,20,13,7,N/A
-49,Le Mans Ultimate,15/11/26,LMGT3 Fixed,Spa Francorchamps,4,16,14,2,N/A
-50,Le Mans Ultimate,15/11/26,LMGT3 Fixed,Spa Francorchamps,5,17,12,5,N/A
-51,Le Mans Ultimate,17/11/26,LMGT3 Fixed,Sebring,5,20,14,6,N/A
-52,Le Mans Ultimate,17/11/26,LMGT3 Fixed,Sebring,2,18,17,1,N/A
-53,Le Mans Ultimate,19/11/26,LMGT3 Fixed,Sebring,6,14,12,2,N/A
-54,Le Mans Ultimate,19/11/26,LMGT3 Fixed,Sebring,1,15,8,7,N/A
-55,Le Mans Ultimate,,LMGT3 Fixed,,,,,0,N/A
-56,Le Mans Ultimate,,LMGT3 Fixed,,,,,0,N/A
-57,Le Mans Ultimate,,LMGT3 Fixed,,,,,0,N/A
-58,Le Mans Ultimate,,LMGT3 Fixed,,,,,0,N/A
-59,Le Mans Ultimate,,LMGT3 Fixed,,,,,0,N/A
-60,Le Mans Ultimate,,LMGT3 Fixed,,,,,0,N/A
-61,,,,,,,,0,N/A
-62,,,,,,,,0,N/A
-63,,,,,,,,0,N/A
-64,,,,,,,,0,N/A
-65,,,,,,,,0,
-66,,,,,,,,0,
-67,,,,,,,,0,
-68,,,,,,,,0,
-69,,,,,,,,0,
-70,,,,,,,,0,
-71,,,,,,,,0,
-72,,,,,,,,0,
-73,,,,,,,,0,
-74,,,,,,,,0,
-75,,,,,,,,0,
-76,,,,,,,,0,
-77,,,,,,,,0,
-78,,,,,,,,0,
-79,,,,,,,,0,
-80,,,,,,,,0,
-81,,,,,,,,0,
-82,,,,,,,,0,
-83,,,,,,,,0,
-84,,,,,,,,0,
-85,,,,,,,,0,
-86,,,,,,,,0,
-87,,,,,,,,0,
-88,,,,,,,,0,
-89,,,,,,,,0,
-90,,,,,,,,0,
-91,,,,,,,,0,
-92,,,,,,,,0,
-93,,,,,,,,0,
-94,,,,,,,,0,
-95,,,,,,,,0,
-96,,,,,,,,0,
-97,,,,,,,,0,
-98,,,,,,,,0,
-99,,,,,,,,0,
-100,,,,,,,,0,
+Race No.,Game,Date,Race Series,Track,No. of DNFs,Lap 1 Start Position,Race Final Position,Overall Position Change,DNF?
+1,iRacing,23/10/26,BMW M2 Cup,Lime Rock Park,3,9,7,2,No
+2,iRacing,23/10/26,BMW M2 Cup,Lime Rock Park,3,8,5,3,No
+3,iRacing,24/10/26,BMW M2 Cup,Lime Rock Park,2,6,5,1,No
+4,iRacing,24/10/26,BMW M2 Cup,Lime Rock Park,4,9,4,5,No
+5,iRacing,24/10/26,BMW M2 Cup,Lime Rock Park,4,6,5,1,No
+6,iRacing,25/10/26,BMW M2 Cup,Lime Rock Park,1,9,8,1,No
+7,iRacing,25/10/26,BMW M2 Cup,Lime Rock Park,4,6,4,2,No
+8,iRacing,30/10/26,BMW M2 Cup,Okayama International Short,0,10,9,1,No
+9,iRacing,30/10/26,BMW M2 Cup,Okayama International Short,4,12,7,5,No
+10,iRacing,30/10/26,BMW M2 Cup,Okayama International Short,3,10,5,5,No
+11,iRacing,31/10/26,BMW M2 Cup,Okayama International Short,2,5,7,-2,No
+12,iRacing,31/10/26,BMW M2 Cup,Okayama International Short,4,7,6,1,No
+13,iRacing,31/10/26,BMW M2 Cup,Okayama International Short,2,11,9,2,No
+14,iRacing,01/11/26,BMW M2 Cup,Okayama International Short,3,10,5,5,No
+15,iRacing,01/11/26,BMW M2 Cup,Okayama International Short,2,11,10,1,No
+16,iRacing,01/11/26,BMW M2 Cup,Okayama International Short,1,6,6,0,No
+17,iRacing,01/11/26,BMW M2 Cup,Okayama International Short,3,10,7,3,No
+18,iRacing,01/11/26,BMW M2 Cup,Okayama International Short,4,9,5,4,No
+19,Le Mans Ultimate,02/11/26,Mclaren LMGT3/Logitech Mclaren G Challenge,Monza,1,19,18,1,No
+20,Le Mans Ultimate,02/11/26,Logitech Mclaren G Challenge,Monza,5,20,17,3,Yes
+21,Le Mans Ultimate,03/11/26,LMGT3 Fixed,Monza,8,14,17,-3,Yes
+22,Le Mans Ultimate,03/11/26,LMGT3 Fixed,Monza,4,17,16,1,No
+23,Le Mans Ultimate,03/11/26,LMGT3 Fixed,Monza,5,16,14,2,No
+24,Le Mans Ultimate,03/11/26,LMGT3 Fixed,Monza,8,13,5,8,No
+25,Le Mans Ultimate,03/11/26,LMGT3 Fixed,Monza,3,15,9,6,No
+26,Le Mans Ultimate,04/11/26,LMGT3 Fixed,Monza,5,15,6,9,No
+27,Le Mans Ultimate,04/11/26,LMGT3 Fixed,Monza,8,17,6,11,No
+28,Le Mans Ultimate,04/11/26,LMGT3 Fixed,Monza,5,16,19,-3,Yes
+29,Le Mans Ultimate,04/11/26,LMGT3 Fixed,Monza,4,15,11,4,No
+30,Le Mans Ultimate,05/11/26,LMGT3 Fixed,Monza,6,14,6,8,No
+31,Le Mans Ultimate,05/11/26,LMGT3 Fixed,Monza,3,12,9,3,No
+32,Le Mans Ultimate,05/11/26,LMGT3 Fixed,Monza,8,15,5,10,No
+33,Le Mans Ultimate,06/11/26,LMGT3 Fixed,Monza,5,19,16,3,No
+34,Le Mans Ultimate,06/11/26,LMGT3 Fixed,Monza,4,16,11,5,No
+35,Le Mans Ultimate,06/11/26,LMGT3 Fixed,Monza,3,15,10,5,No
+36,Le Mans Ultimate,06/11/26,LMGT3 Fixed,Monza,2,17,9,8,No
+37,Le Mans Ultimate,06/11/26,LMGT3 Fixed,Monza,6,13,4,9,No
+38,Le Mans Ultimate,11/11/26,LMGT3 Fixed,Spa Francorchamps,3,16,14,2,No
+39,Le Mans Ultimate,11/11/26,LMGT3 Fixed,Spa Francorchamps,5,19,15,4,No
+40,Le Mans Ultimate,11/11/26,LMGT3 Fixed,Spa Francorchamps,6,17,13,4,No
+41,Le Mans Ultimate,11/11/26,LMGT3 Fixed,Spa Francorchamps,5,15,12,3,No
+42,Le Mans Ultimate,11/11/26,LMGT3 Fixed,Spa Francorchamps,5,13,14,-1,No
+43,Le Mans Ultimate,12/11/26,LMGT3 Fixed,Spa Francorchamps,3,15,10,5,No
+44,Le Mans Ultimate,12/11/26,LMGT3 Fixed,Spa Francorchamps,8,12,9,3,No
+45,Le Mans Ultimate,12/11/26,LMGT3 Fixed,Spa Francorchamps,5,17,13,4,No
+46,Le Mans Ultimate,12/11/26,LMGT3 Fixed,Spa Francorchamps,2,16,14,2,No
+47,Le Mans Ultimate,13/11/26,LMGT3 Fixed,Spa Francorchamps,7,19,8,11,No
+48,Le Mans Ultimate,13/11/26,LMGT3 Fixed,Spa Francorchamps,6,20,13,7,No
+49,Le Mans Ultimate,15/11/26,LMGT3 Fixed,Spa Francorchamps,4,16,14,2,No
+50,Le Mans Ultimate,15/11/26,LMGT3 Fixed,Spa Francorchamps,5,17,12,5,No
+51,Le Mans Ultimate,17/11/26,LMGT3 Fixed,Sebring,5,20,14,6,No
+52,Le Mans Ultimate,17/11/26,LMGT3 Fixed,Sebring,2,18,17,1,No
+53,Le Mans Ultimate,19/11/26,LMGT3 Fixed,Sebring,6,14,12,2,No
+54,Le Mans Ultimate,19/11/26,LMGT3 Fixed,Sebring,1,15,8,7,No
+55,Le Mans Ultimate,20/11/26,LMGT3 Fixed,Sebring,4,18,11,7,No
+56,Le Mans Ultimate,20/11/26,LMGT3 Fixed,Sebring,11,12,16,-4,Yes
+57,Le Mans Ultimate,21/11/26,LMGT3 Fixed,Sebring,7,17,5,12,No
+58,Le Mans Ultimate,21/11/26,LMGT3 Fixed,Sebring,6,14,2,12,No
+59,Le Mans Ultimate,21/11/26,LMGT3 Fixed,Sebring,6,13,5,8,No
+60,Le Mans Ultimate,22/11/26,LMGT3 Fixed,Sebring,5,15,6,9,No
+61,,,,,,,,0,No
+62,,,,,,,,0,No
+63,,,,,,,,0,No
+64,,,,,,,,0,No
+65,,,,,,,,0,No
+66,,,,,,,,0,No
+67,,,,,,,,0,No
+68,,,,,,,,0,No
+69,,,,,,,,0,No
+70,,,,,,,,0,No
+71,,,,,,,,0,No
+72,,,,,,,,0,No
+73,,,,,,,,0,No
+74,,,,,,,,0,No
+75,,,,,,,,0,No
+76,,,,,,,,0,No
+77,,,,,,,,0,No
+78,,,,,,,,0,No
+79,,,,,,,,0,No
+80,,,,,,,,0,No
+81,,,,,,,,0,No
+82,,,,,,,,0,No
+83,,,,,,,,0,No
+84,,,,,,,,0,No
+85,,,,,,,,0,No
+86,,,,,,,,0,No
+87,,,,,,,,0,No
+88,,,,,,,,0,No
+89,,,,,,,,0,No
+90,,,,,,,,0,No
+91,,,,,,,,0,No
+92,,,,,,,,0,No
+93,,,,,,,,0,No
+94,,,,,,,,0,No
+95,,,,,,,,0,No
+96,,,,,,,,0,No
+97,,,,,,,,0,No
+98,,,,,,,,0,No
+99,,,,,,,,0,No
+100,,,,,,,,0,No
